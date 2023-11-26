@@ -16,7 +16,7 @@ const NavBar = () => {
     { id: 3, name: locale.NAV.TEAM, to: '/team', show: true },
     { id: 4, name: locale.NAV.POLICY, to: '/policy', show: true },
 
-    { id: 5, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
+    { id: 5, name: locale.NAV.RSS, to: '/feed', show: false, external: true },
     { id: 6, name: locale.NAV.SEARCH, to: '/search', show: true }
   ]
   return (
