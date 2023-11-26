@@ -3,7 +3,10 @@
     "INDEX": "網誌",
     "RSS": "訂閱",
     "SEARCH": "搜尋",
-    "ABOUT": "關於"
+    "ABOUT": "關於",
+    "POLICY": "Policy",
+    "TEAM": "Team",
+    "Events":"Events"
   },
   "PAGINATION": {
     "PREV": "上一頁",

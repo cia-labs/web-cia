@@ -3,7 +3,10 @@
     "INDEX": "Projects",
     "RSS": "RSS",
     "SEARCH": "Search",
-    "ABOUT": "About"
+    "ABOUT": "About",
+    "POLICY": "Policy",
+    "TEAM": "Team",
+    "Events":"Events"
   },
   "PAGINATION": {
     "PREV": "Prev",
@@ -15,7 +18,7 @@
   },
   "PAGE": {
     "ERROR_404": {
-      "MESSAGE": "Nothing here"
+      "MESSAGE": "Page/route not found."
     }
   }
 }
